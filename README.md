@@ -1,2 +1,2 @@
 # hello-world
-First repository
+editing the repository. trying to understand how this works.
